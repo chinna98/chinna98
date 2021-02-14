@@ -24,11 +24,7 @@ Here are a few things I've picked up along my learning journey.
 * 💠 Dialogflow
 * 📟 Troubleshooting
 
-## 📫 Get in touch
-- LinkedIn - [Chinna](https://www.linkedin.com/in/Chinnapareddy)
-- Twitter - [@chinna5001](https://twitter.com/chinna5001)
-- Website - [Website](http://chinna.tech/)
-### Connect with me:
+### 📫 Connect with me:
 
 [<img align="left" alt="Chinnapareddy | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />](https://twitter.com/chinna5001)
 [<img align="left" alt="Chinnapareddy  | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://linkedin.com/in/Chinnapareddy)
